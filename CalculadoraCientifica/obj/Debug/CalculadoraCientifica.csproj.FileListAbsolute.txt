@@ -1,0 +1,10 @@
+C:\Users\SGBr\source\repos\Calculadora\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.exe.config
+C:\Users\SGBr\source\repos\Calculadora\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.exe
+C:\Users\SGBr\source\repos\Calculadora\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.pdb
+C:\Users\SGBr\source\repos\Calculadora\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.csproj.AssemblyReference.cache
+C:\Users\SGBr\source\repos\Calculadora\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.CalculadoraC.resources
+C:\Users\SGBr\source\repos\Calculadora\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.Properties.Resources.resources
+C:\Users\SGBr\source\repos\Calculadora\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.csproj.GenerateResource.cache
+C:\Users\SGBr\source\repos\Calculadora\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.csproj.CoreCompileInputs.cache
+C:\Users\SGBr\source\repos\Calculadora\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.exe
+C:\Users\SGBr\source\repos\Calculadora\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.pdb
